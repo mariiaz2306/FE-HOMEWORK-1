@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h3 {
+    margin: 20px;
+    font-weight: 100;
+}
+.first_block {
+    margin: 20px;
+    background-color: #34495E;
+    border-radius: 20px;
+    padding: 21px 50px 21px 50px;
+    color: white;
+}
+.second_block {
+    margin: 20px;
+    background-color: #34495E;
+    border-radius: 20px;
+    padding: 21px 50px 21px 50px;
+    color: white;
+}
+.third_block {
+    margin: 20px;
+    background-color: #34495E;
+    border-radius: 20px;
+    padding: 21px 50px 21px 50px;
+    color: white;
+}
